@@ -1,2 +1,2 @@
-# my_first_repo
-my first repository
+# Python_coding_test
+my first test note
